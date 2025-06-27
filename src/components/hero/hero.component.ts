@@ -105,6 +105,7 @@ import { CommonModule } from '@angular/common';
     .hero-content {
       position: relative;
       z-index: 2;
+      padding-top: 120px;
       text-align: center;
       max-width: 800px;
       padding: var(--espaciado-md);
